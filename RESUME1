@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<img src="/home/cse4/Downloads/flower-purple-lical-blosso.jpg"/width="10%" height="15%" style="float:right">
+<h4>Hemalatha.N</h4>
+<a href="mailto:hemanagesh1999@gmail.com">hemanagesh1999@gmail.com</a>
+<p>9902430191</p>
+<hr/>
+<h4>Cv Highlights</h4
+<ul>
+<li>Currently persuing my 6th sem on computer science engineering in Presidency University.</li>
+<li>Learnt basic Python,HTML,C,C++ languages,MYSQL,Data Structures in Presidency University.</li>
+<li>An independent,dedicated,efficient person.</li>
+<li>Good communication skills,presentation skills,good attitude towards other employee.</li>
+</ul>
+<hr/>
+<h4>Professional Experience</h4>
+<ul>
+<li><b>Data Analyst</b></li>
+</ul>
+<ul>
+<li><b>Job Responsibilities</b></li>
+</ul>
+<ul>
+<li type="circle">Managing master data, including creation, updates, and deletion.</li>
+<li type="circle">Managing users and user roles.</li>
+<li type="circle">provide quality assurance of imported data, working with quality assurance analyst if necessary.</li>
+<li type="circle">Commissioning and decommissioning of data sets.</li>
+</ul>
+<ul>
+<li><b>Job Responsibilities</b></li>
+</ul>
+<ul>
+<li type="circle">Processing confidential data and information according to guidelines.</li>
+<li type="circle">Helping develop reports and analysis.</li>
+<li type="circle">Managing and designing the reporting environment, including data sources, security, and metadata.</li>
+</ul>
+<hr/>
+<h4>Educational Qualification<h4>
+<table border="1",cellspacing="0">
+<tr>
+<th>Qualification</th>
+<th>Board</th>
+<th>Percentage/Grades</th>
+<th>Year</th>
+</tr>
+<tr>
+<td>SSLC</td>
+<td>Karnataka State</td>
+<td align="center">80%</td>
+<td align="centre">2015</td>
+</tr>
+<tr>
+<td>PU</td>
+<td>Karnataka State</td>
+<td align="center">80%</td>
+<td align="centre">2017</td>
+</tr>
+<td>B tech</td>
+<td>Presidency University</td>
+<td align="center">85%</td>
+<td align="centre">2021</td>
+</tr>
+</table>
+<hr/>
+<h4>Independent Courses</h4>
+<ul>
+<li type="circle">server administrator</li>
+<li type="circle">Web data mining</li>
+</ul>
+<h4>Technical Skills</h4>
+<ul>
+<li type="circle"><span style="color:red"> A high level of mathematical ability.</span></li>
+<li type="circle">Programming languages such as SQL, Oracle and Python.</li>
+<li type="circle">The ability to analyse, model and interpret data.</li>
+<li type="circle">Problem-solving skills.</li>
+</ul>
+<hr/>
+<h4>Certificates</h4>
+<ul>
+<li type="circle">NPTEL certificate.</li>
+<li type="circle">Best Student of the year in 2017</li>
+</ul>
+<hr/>
+<h4>Personal Information</h4>
+<ul>
+<li type="circle">Painting</li>
+<li type="circle">Listening to music</li>
+</ul>
+<hr/>
+<h4>Declaration</h4>
+<ul>
+<li>understand the lanuages and work in the progress of the company.
+</ul>
+</body>
+</html>
